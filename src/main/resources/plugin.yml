@@ -1,0 +1,6 @@
+name: Woverwatch
+version: 1.0
+author: Lucidiax
+main: fr.wondara.woverwatch.Woverwatch
+commands:
+  replay:
